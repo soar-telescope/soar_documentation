@@ -1,0 +1,6 @@
+name: soar_docs
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - sphinx

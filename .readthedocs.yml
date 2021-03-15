@@ -1,0 +1,19 @@
+version: 2
+
+sphinx:
+    configuration: soar_documentation/conf.py
+
+formats: all
+
+
+
+python:
+    version: 3.8
+    install:
+        - method: pip
+          path: .
+        - method: setuptools
+          path: .
+
+conda:
+    environment: environment.yml
