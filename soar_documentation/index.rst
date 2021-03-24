@@ -6,6 +6,10 @@
 Welcome to SOAR Telescope Documentation's Index!
 ================================================
 
+.. image:: https://readthedocs.org/projects/soardocs/badge/?version=latest
+   :target: https://soardocs.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
+
 This page indexes all documentation related to the Goodman Spectrograph Data
 Reduction Pipeline.
 
@@ -16,7 +20,7 @@ In this link
    :maxdepth: 2
    :caption: Goodman HTS Projects:
 
-   Data Reduction Pipeline <https://goodman.readthedocs.io/en/latest/index.html>
-   Focus Calculator <https://goodman.readthedocs.io/projects/focus/en/latest/>
-   Reference Lamps <https://goodman.readthedocs.io/projects/lamps/en/latest/>
-   Web Application <https://goodman.readthedocs.io/projects/lamps/en/latest/>
+   Data Reduction Pipeline <https://soardocs.readthedocs.io/projects/goodman-pipeline/en/latest/>
+   Focus Calculator <https://soardocs.readthedocs.io/projects/focus/en/latest/>
+   Reference Lamps <https://soardocs.readthedocs.io/projects/lamps/en/latest/>
+   Web Application <https://soardocs.readthedocs.io/projects/gsp/en/latest/>
