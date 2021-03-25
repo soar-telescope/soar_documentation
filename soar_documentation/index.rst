@@ -20,7 +20,7 @@ In this link
    :maxdepth: 2
    :caption: Goodman HTS Projects:
 
-   Data Reduction Pipeline <https://soardocs.readthedocs.io/projects/goodman-pipeline/en/latest/>
+   Goodman Pipeline <https://soardocs.readthedocs.io/projects/goodman-pipeline/en/latest/>
    Focus Calculator <https://soardocs.readthedocs.io/projects/focus/en/latest/>
-   Reference Lamps <https://soardocs.readthedocs.io/projects/lamps/en/latest/>
-   Web Application <https://soardocs.readthedocs.io/projects/gsp/en/latest/>
+   Reference Lamps Library <https://soardocs.readthedocs.io/projects/lamps/en/latest/>
+   Goodman Pipeline Web <https://soardocs.readthedocs.io/projects/gsp/en/latest/>
