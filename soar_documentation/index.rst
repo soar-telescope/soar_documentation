@@ -14,7 +14,8 @@ This page indexes all documentation related to the Goodman Spectrograph Data
 Reduction Pipeline.
 
 
-In this link
+The following links will take you to the respective projects documentation sites.
+
 
 .. toctree::
    :maxdepth: 2
