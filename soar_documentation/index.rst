@@ -22,6 +22,7 @@ The following links will take you to the respective projects documentation sites
    :caption: Goodman HTS Projects:
 
    Goodman Pipeline <https://soardocs.readthedocs.io/projects/goodman-pipeline/en/latest/>
-   Focus Calculator <https://soardocs.readthedocs.io/projects/focus/en/latest/>
+   Goodman Focus Calculator <https://soardocs.readthedocs.io/projects/goodmanfocus/en/latest/>
+   TripleSpec Slit Viewer Focus Calculator <https://soardocs.readthedocs.io/projects/tspecfocus/en/latest/>
    Reference Lamps Library <https://soardocs.readthedocs.io/projects/lamps/en/latest/>
    Goodman Pipeline Web <https://soardocs.readthedocs.io/projects/gsp/en/latest/>
