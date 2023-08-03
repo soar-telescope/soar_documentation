@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'SOAR Telescope Index'
-copyright = '2021, Simon Torres'
-author = 'Simon Torres'
+copyright = '2021, Simón Torres'
+author = 'Simón Torres'
 license = 'bsd3'
 
 # The full version, including alpha/beta/rc tags
@@ -48,7 +48,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'pydata_sphinx_theme'
 
 html_logo = '_static/soar_logo.png'
 
