@@ -1,16 +1,15 @@
 version: 2
 
-sphinx:
-    configuration: soar_documentation/conf.py
-
-formats: all
-
-
-
 build:
   os: ubuntu-24.04
   tools:
     python: "3.13"
 
-conda:
-    environment: environment.yml
+sphinx:
+    configuration: soar_documentation/conf.py
+
+formats: all
+
+python:
+  install:
+    - requirements: requirements.txt
